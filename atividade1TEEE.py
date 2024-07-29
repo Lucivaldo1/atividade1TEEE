@@ -2,7 +2,7 @@
 O código a seguir é uma adaptação, que faz pequenas mudanças,  a fim de
 aplicar o TMM para modos TM (atividade sugerida em aula).
 O código original pode ser encontrado em: https://github.com/adophobr/PhotonicIntegratedCircuits/blob/main/jupyter/ass_dlt_guide.ipynb
-
+Os resultados estão apresentados de maneira organizada no pdf Atividade_1_TEEE___Exemplos_3_e_4_da_aula_5
 '''
 
 
